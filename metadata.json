@@ -1,0 +1,7 @@
+{
+  "name": "Nur - Spiritual Companion",
+  "description": "A modern Islamic app blending spiritual tranquility with high-tech usability, featuring interactive Dhikr, Daily Amal tracking, and AI-powered Hadith insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
